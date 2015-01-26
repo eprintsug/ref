@@ -1,0 +1,756 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://template.ulcc.ac.uk/id/epm/ref2014'>
+  <epmid>ref2014</epmid>
+  <eprintid>270</eprintid>
+  <uri>http://bazaar.eprints.org/id/epm/ref2014</uri>
+  <documents>
+    <document id='http://template.ulcc.ac.uk/id/document/1348'>
+      <docid>1348</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://template.ulcc.ac.uk/id/file/5222'>
+          <fileid>5222</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_benchmark/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>7d11fbe700fc13c1a5c9efa60844c050</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>242</filesize>
+          <mtime>2013-02-27 12:03:28</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5223'>
+          <fileid>5223</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_circ/ref1a.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>ca398b5978a888b013919951455e5962</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2823</filesize>
+          <mtime>2013-02-27 12:03:28</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5224'>
+          <fileid>5224</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_circ/ref1b.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>3f7010a718961f2ce124ab4112b3fabc</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1082</filesize>
+          <mtime>2013-02-27 12:03:28</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5225'>
+          <fileid>5225</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_circ/ref1c.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>826443d2df64fc522ef968a2dab74013</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>754</filesize>
+          <mtime>2013-02-27 12:03:28</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5226'>
+          <fileid>5226</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_environment/brief.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>bde77bfbf854a9c07b6fe56a9652db3c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>241</filesize>
+          <mtime>2013-02-27 12:03:28</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5227'>
+          <fileid>5227</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_environment/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>9d8a940b3592fe2302ae75877a1ca494</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>329</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5228'>
+          <fileid>5228</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_selection/action.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>770a3b5185c18320b802971ee551716d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>674</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5229'>
+          <fileid>5229</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_selection/brief.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>bde2449ea311925dbc798037f6c02c49</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>380</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5230'>
+          <fileid>5230</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_selection/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>3e65616fcc0a3966834991acb6cc771b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>423</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5231'>
+          <fileid>5231</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/ref_selection/report.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>6bfc85e500c8713aafbaaafccb91526d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>540</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5232'>
+          <fileid>5232</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/user/ref.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>85c737eb562c136245d47bc17d0147aa</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>381</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5233'>
+          <fileid>5233</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/user/ref1a.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>a176dcbfd52485354a895cbdb5e0b2e3</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1465</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5234'>
+          <fileid>5234</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>citations/user/ref_listing_page.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>b3cd5cfeebd4350d7d412b1a31398e96</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>574</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5235'>
+          <fileid>5235</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cfg/cfg.d/zz_ref.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>51b41bd025318d0c28ceb2d50702a309</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>21364</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5236'>
+          <fileid>5236</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cfg/cfg.d/zz_ref_benchmark.pl</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>b9b743acfed5a33eded05a68e633f090</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6112</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5237'>
+          <fileid>5237</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cfg/cfg.d/zz_ref_circ.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>89dc5ae5acd3bb843faeb7db0d13e87a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6111</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5238'>
+          <fileid>5238</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cfg/cfg.d/zz_ref_environment.pl</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>6c92d82395df62b5d1bfdfda47fcc98f</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4858</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5239'>
+          <fileid>5239</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cfg/cfg.d/zz_ref_reports.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>5c9c628e95c0a6593d2eb672b01481d0</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>24160</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5240'>
+          <fileid>5240</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cfg/subjects_uoa</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>53a31c3f1d4d6fcd40530d78efc6bb94</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2496</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5241'>
+          <fileid>5241</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>epm/ref2014/cgi/users/ajax/ref_copy_progress</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>949b3fa3c29468f024ea7c4e2c45aea8</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>851</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5242'>
+          <fileid>5242</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>lang/en/phrases/ref.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>c2dcaae793ec78fb49e850970db943d3</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>41486</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5243'>
+          <fileid>5243</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Export/REF.pm</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>e926068c0f4fbe4b8379b5f070a45698</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5437</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5244'>
+          <fileid>5244</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Export/REF4_Excel.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>afc02228d240cc132699a470ff9bcbb7</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5375</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5245'>
+          <fileid>5245</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Export/REF4_XML.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>09a349bbf6272baf8d94c6540674314a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4458</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5246'>
+          <fileid>5246</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Export/REF_CSV.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>5c9caad7a7184e260f40575c5b1352e0</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4219</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5247'>
+          <fileid>5247</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Export/REF_Excel.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>8eb6e2be1b707dcfaf5fe417a738ad42</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4963</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5248'>
+          <fileid>5248</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Export/REF_XML.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>017272c32832840854e33e989c40528c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5030</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5249'>
+          <fileid>5249</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/REF2014_v13.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d5e6c40b506848e21b5e1f5a225db3a9</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6288</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5250'>
+          <fileid>5250</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>e5ce465e8c5a9265f4c7ddbfb12d78ff</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>17110</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5251'>
+          <fileid>5251</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Benchmark/Copy.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>593a4c6fc8152418e7d25708613c04d4</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6894</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5252'>
+          <fileid>5252</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Benchmark/Destroy.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>dcac66d657b9861465c34dd84f060d40</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3434</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5253'>
+          <fileid>5253</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Benchmark/LinkListing.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>e304977d792690cbb25d807fb73c8abc</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1066</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5254'>
+          <fileid>5254</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Benchmark/New.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>78d6a5594cbc36ea1cb3fdf520c7831d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3424</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5255'>
+          <fileid>5255</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Benchmark/Select.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>74c399751b9859446cfca8a8dbb7f7a7</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4322</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5256'>
+          <fileid>5256</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Edit.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>77df058f03622ea8523d1e68b11be925</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5301</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5257'>
+          <fileid>5257</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Listing.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>be368a697761afac02f1ab6087821139</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>22005</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5258'>
+          <fileid>5258</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Overview.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b5793bd08bffe2ac4cb16a29eddd11cf</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>9661</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5259'>
+          <fileid>5259</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/REF4/Edit.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>04547b2f7f7b49d46f36a5ea25fb336e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>854</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5260'>
+          <fileid>5260</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/REF4/Listing.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>ffa573b6f0afc2a71edb2c69e288e481</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6857</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5261'>
+          <fileid>5261</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report.pm</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>68f4cdacb3002052992138e17359503d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>10270</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5262'>
+          <fileid>5262</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report/Listing.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>edabf0a6d11ac7cce3a9a2c83557ee4e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6823</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5263'>
+          <fileid>5263</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report/REF1a.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>a64f1ec00fc7f680e2273c56985e279a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5268</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5264'>
+          <fileid>5264</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report/REF1b.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>23994392c7c634bf2b0133334ad08d7a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5148</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5265'>
+          <fileid>5265</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report/REF1c.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>eafc25c637400b78962c7b6888df7709</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6462</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5266'>
+          <fileid>5266</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report/REF2.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b90bfcd3236a661d7e88af0e52e61976</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>7341</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5267'>
+          <fileid>5267</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/Report/REF4.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>4331baa515791c8a9adc8e2cf824eab0</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>6306</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5268'>
+          <fileid>5268</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/User/Edit.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>3129405f368d480d3b900ba61c7d2a0e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3658</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5269'>
+          <fileid>5269</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/User/EditCirc.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>4dd63759c04ed4d503e192a28b46a48c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>5017</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5270'>
+          <fileid>5270</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/User/EditCircLink.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>120505d4f1f8249668b3069960ffec43</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3848</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5271'>
+          <fileid>5271</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/User/EditCircLinkBack.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>040c891a342f89764beec26efa5b529f</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2053</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5272'>
+          <fileid>5272</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/REF/User/EditUoA.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>a0b72d22cf397abf8790a7c2135933ca</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1648</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5273'>
+          <fileid>5273</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>static/images/epm/ref2014.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>7670180671f7628891fbeb9e6b82895e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>133532</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5274'>
+          <fileid>5274</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>static/javascript/auto/ref_ajax.js</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>d24eed4b43836b67fe758a40285723f2</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>9698</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5275'>
+          <fileid>5275</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>static/style/auto/ref.css</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d2ecce8f6d91939d078ef61c97052eba</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3538</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5276'>
+          <fileid>5276</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>static/style/images/warning-small.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>e4dd51f46566ed3ceacdc900bf2fdf01</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>701</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5277'>
+          <fileid>5277</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/ref_benchmark/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>fa8a31bc2dd97e57505a55f568509cd4</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>392</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5278'>
+          <fileid>5278</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/ref_circ/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>fcd9148adf848c6eeb35e113e412a52c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>972</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5279'>
+          <fileid>5279</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/ref_circ/ref1c.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>b54b760992826a0b8e48fa561b9f7091</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1161</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5280'>
+          <fileid>5280</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/ref_environment/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>1e0f30f197dff094ba9ea7baf735192b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>857</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5281'>
+          <fileid>5281</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/ref_selection/default.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>583dbb035cbf0af90fd6e8ecf6d36f55</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1369</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5282'>
+          <fileid>5282</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/user/ref.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>2029166252709d45228bae3928fbb439</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>607</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+        <file id='http://template.ulcc.ac.uk/id/file/5283'>
+          <fileid>5283</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1348</objectid>
+          <filename>workflows/user/uoa_champion.xml</filename>
+          <mime_type>text/xml</mime_type>
+          <hash>eb89d77cf21fec893ac53571418e39f3</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>363</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+      </files>
+      <eprintid>270</eprintid>
+      <pos>1</pos>
+      <placement>1</placement>
+      <mime_type>text/xml</mime_type>
+      <format>text</format>
+      <language>en</language>
+      <security>public</security>
+      <main>workflows/user/uoa_champion.xml</main>
+      <content>install</content>
+    </document>
+    <document id='http://template.ulcc.ac.uk/id/document/1349'>
+      <docid>1349</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://template.ulcc.ac.uk/id/file/5284'>
+          <fileid>5284</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1349</objectid>
+          <filename>static/images/epm/ref2014.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>7670180671f7628891fbeb9e6b82895e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>133532</filesize>
+          <mtime>2013-02-27 12:03:29</mtime>
+        </file>
+      </files>
+      <eprintid>270</eprintid>
+      <pos>2</pos>
+      <placement>2</placement>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/images/epm/ref2014.png</main>
+      <content>coverimage</content>
+    </document>
+  </documents>
+  <version>1.3</version>
+  <controller>EPMC::REF2014_v13</controller>
+  <creators>
+    <item>
+      <name>
+        <family>Sebastien</family>
+        <given>Francois</given>
+      </name>
+      <id>sf2@ecs.soton.ac.uk</id>
+    </item>
+    <item>
+      <name>
+        <family>Tim</family>
+        <given>Brody</given>
+      </name>
+      <id>tdb2@ecs.soton.ac.uk</id>
+    </item>
+  </creators>
+  <datestamp>2013-02-27 12:03:28</datestamp>
+  <title>EPrints REF2014 Plugin</title>
+  <description>EPrints repositories have a potentially important role to play in institutions&apos; responses to the requirements of REF. Our new REF2014 plugin has been specifically designed to help institutions manage their REF1 data (staff details) and REF2 data (research outputs). For further details see http://www.eprints.org/ref2014/
+
+** Warning: if you disable this plugin in EPrints, all associated data (selections etc.) will be permanently removed **</description>
+  <home_page>http://www.eprints.org/ref2014/</home_page>
+  <icon>images/epm/ref2014.png</icon>
+</epm>
