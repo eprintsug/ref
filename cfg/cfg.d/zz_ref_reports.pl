@@ -94,9 +94,9 @@ $c->{'ref'}->{ref2_validate_fields} = sub {
 		return {};
 	}
 
-	if( $eprint->exists_and_set( "oa_compliance" ) )
+	if( $eprint->exists_and_set( "oa_compliant" ) )
 	{
-		if( $eprint->value( "oa_compliance" ) =~ /^no/ )
+		if( $eprint->value( "oa_compliant" ) =~ /^no/ )
 		{
 			push @$problems, $repo->html_phrase( "ref:validate:not_eligible" );
 			return {};
