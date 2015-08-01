@@ -337,7 +337,7 @@ sub search_filters
 		if( $action eq 'search_authored' || $action eq 'search_deposited' )
 		{
 			push @filters,
-				{ meta_fields=>[ 'date' ], value=> "2008-", match=>'EX', describe=>0 };
+				{ meta_fields=>[ 'date' ], value=> "2014-", match=>'EX', describe=>0 };
 		}
 	}
 

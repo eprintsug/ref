@@ -94,6 +94,15 @@ $c->{'ref'}->{ref2_validate_fields} = sub {
 		return {};
 	}
 
+	if( $eprint->exists_and_set( "oa_compliance" ) )
+	{
+		if( $eprint->value( "oa_compliance" ) =~ /^no/ )
+		{
+			push @$problems, $repo->html_phrase( "ref:validate:not_eligible" );
+			return {};
+		}
+	}
+
 	if( $eprint->is_set( 'eprint_status' ) && $eprint->value( 'eprint_status' ) ne 'archive' )
 	{
 		push @$problems, $repo->html_phrase( "ref:validate:eprint_not_live" );
@@ -374,7 +383,7 @@ $c->{plugins}->{"Screen::REF::Report::REF2"}->{params}->{validate_selection} = s
 	$year = "" if !defined $year;
 	$year = substr($year,0,4);
 
-	if( !$year || $year < 2008 || $year > 2013 )
+	if( !$year || $year < 2014 || $year > 2020 )
 	{
 		push @problems, $session->html_phrase( "ref:validate:year",
 			year => $session->make_text( $year ),

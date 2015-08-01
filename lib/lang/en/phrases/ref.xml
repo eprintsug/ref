@@ -28,7 +28,7 @@
 <epp:phrase id="user_fieldname_ref_end_date">Staff End Date</epp:phrase>
 <epp:phrase id="user_fieldhelp_ref_end_date">Staff employment end date.</epp:phrase>
 
-<epp:phrase id="user_fieldname_ref_uoa">Unit of Assessment (REF2014)</epp:phrase>
+<epp:phrase id="user_fieldname_ref_uoa">Unit of Assessment (REF)</epp:phrase>
 <epp:phrase id="user_fieldhelp_ref_uoa">Please select your Unit of Assessment.</epp:phrase>
 
 <epp:phrase id="user_fieldname_ref_uoa_role">Unit of Assessment scope</epp:phrase>
@@ -305,7 +305,7 @@ Please choose one of the following options:<br/>
 
 <!-- EPMC / Bazaar -->
 <epp:phrase id="Plugin/Screen/EPMC/REF2014:confirm">
-<p>Warning: disabling the REF2014 plugin will remove ALL the selections and benchmarks that you have made so far. Are you sure you want to continue?</p>
+<p>Warning: disabling the REF plugin will remove ALL the selections and benchmarks that you have made so far. Are you sure you want to continue?</p>
 </epp:phrase>
 
 
@@ -336,7 +336,7 @@ Please choose one of the following options:<br/>
 </epp:phrase>
 
 <!-- REF::Overview screen -->
-<epp:phrase id="Plugin/Screen/REF/Overview:title">REF2014</epp:phrase>
+<epp:phrase id="Plugin/Screen/REF/Overview:title">REF</epp:phrase>
 
 <epp:phrase id="Plugin/Screen/REF/Overview:user_actions">
 <div style="margin:10px auto"><epc:pin name="actions"/></div>
@@ -378,10 +378,10 @@ You cannot yet select publications for REF as no Benchmarks have been organised.
 
 <epp:phrase id="ref/listing:newsearch:desc">Blank search form</epp:phrase>
 
-<epp:phrase id="ref/listing:search_authored:desc">items <epc:pin name="who"/> co-authored from 2008 onwards</epp:phrase>
+<epp:phrase id="ref/listing:search_authored:desc">items <epc:pin name="who"/> co-authored from 2014 onwards</epp:phrase>
 <epp:phrase id="ref/listing:search_authored_all:desc">*all* the items <epc:pin name="who"/> co-authored</epp:phrase>
 
-<epp:phrase id="ref/listing:search_deposited:desc">items <epc:pin name="who"/> deposited from 2008 onwards</epp:phrase>
+<epp:phrase id="ref/listing:search_deposited:desc">items <epc:pin name="who"/> deposited from 2014 onwards</epp:phrase>
 <epp:phrase id="ref/listing:search_deposited_all:desc">*all* the items <epc:pin name="who"/> deposited</epp:phrase>
 
 <epp:phrase id="ref/listing:searches:heading"><div style="margin-top:5px;margin-bottom:10px;">Please find below the list of <epc:pin name="search_desc"/>.
@@ -526,7 +526,7 @@ No items selected.
 <epp:phrase id="ref:stat_total">Outputs</epp:phrase>
 <epp:phrase id="ref:stat_mean_self_rating">Avg. Rating</epp:phrase>
 
-<epp:phrase id="ref:validate:year"><epc:pin name="year"/> is outside of census period (2008-2013).</epp:phrase>
+<epp:phrase id="ref:validate:year"><epc:pin name="year"/> is outside of census period (2014-2020).</epp:phrase>
 <epp:phrase id="ref:validate:doi">Article missing DOI.</epp:phrase>
 <epp:phrase id="ref:validate:word_limit"><epc:pin name="field"/> has <epc:pin name="length"/> words versus <epc:pin name="limit"/> maximum.</epp:phrase>
 <epp:phrase id="ref:validate:wrong_reserve">This output references a reserve but it has not been flagged as a double-weighted output.</epp:phrase>
@@ -679,5 +679,7 @@ No users found in your UoA.</epp:phrase>
  <epp:phrase id="ref_environment_fieldhelp_income_in_kind"></epp:phrase>
 
  <epp:phrase id="Plugin/Screen/REF/REF4/Edit:title">Edit</epp:phrase>
+
+ <epp:phrase id="ref:validate:not_eligible"><b>Not Open Access Compliant</b> This item is not eligible for REF submission.</epp:phrase>
 
 </epp:phrases>
