@@ -132,7 +132,8 @@ sub render_result_row
 	my $list = $searchexp->perform_search;
 
 	my $data = {};
-	foreach my $year (qw( 2008 2009 2010 2011 2012 ))
+#	foreach my $year (qw( 2008 2009 2010 2011 2012 ))
+	foreach my $year (qw( 2014 2015 2016 2017 2018 2019 ))
 	{
 		$data->{$year}->{"id"} = -1;
 		$data->{$year}->{"degrees"} = 0;
