@@ -5,3 +5,7 @@ Orchestrate Research Excellence Framework submissions using EPrints.
 Originally developed by Sébastien François (https://github.com/sebastfr), Tim Brody and Tim Miles-Board (https://github.com/drtjmb); version 1.3 ported here from http://bazaar.eprints.org/270/
 
 If this code is already hosted elsewhere, please contact @drtjmb.
+
+# REF 2021 #
+
+Including REF CC integration now available: https://github.com/eprintsug/ref2021
