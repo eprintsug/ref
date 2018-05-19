@@ -28,16 +28,10 @@ sub new
 	return $self;
 }
 
-#my $columns = {
-#	'ref4a' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'year', 'degreesAwarded' ],
-#	'ref4b' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'source', 'income2008', 'income2009', 'income2010', 'income2011', 'income2012' ],
-#	'ref4c' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'source', 'income2008', 'income2009', 'income2010', 'income2011', 'income2012' ],
-#};
-
 my $columns = {
 	'ref4a' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'year', 'degreesAwarded' ],
-	'ref4b' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'source', 'income2014', 'income2015', 'income2016', 'income2017', 'income2018', 'income2019' ],
-	'ref4c' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'source', 'income2014', 'income2015', 'income2016', 'income2017', 'income2018', 'income2019' ],
+	'ref4b' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'source', 'income2008', 'income2009', 'income2010', 'income2011', 'income2012' ],
+	'ref4c' => [ 'institution', 'unitofAssessment', 'multipleSubmission', 'action', 'source', 'income2008', 'income2009', 'income2010', 'income2011', 'income2012' ],
 };
 
 sub output_list
@@ -153,7 +147,7 @@ sub output_list
 		foreach my $source (sort keys %{$incomes->{$uoa}||{}})
 		{
 			my @income_years;
-			foreach my $year ( 2014..2019 )
+			foreach my $year ( 2008..2012 )
 			{
 				my $value = $incomes->{$uoa}->{$source}->{$year};
 				$value ||= '0';
@@ -172,7 +166,7 @@ sub output_list
 		foreach my $source (sort keys %{$incomes_kind->{$uoa}||{}})
 		{
 			my @income_years;
-			foreach my $year ( 2014..2019 )
+			foreach my $year ( 2008..2012 )
 			{
 				my $value = $incomes_kind->{$uoa}->{$source}->{$year};
 				$value ||= '0';

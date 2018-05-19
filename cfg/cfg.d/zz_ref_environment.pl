@@ -34,8 +34,7 @@ $c->{datasets}->{ref_environment} = {
 $c->{fields}->{ref_environment} = [] if !defined $c->{fields}->{ref_environment};
 unshift @{$c->{fields}->{ref_environment}}, (
 	{ name => "ref_environmentid", type=>"counter", required=>1, can_clone=>0, sql_counter=>"ref_environmentid" }, 
-#	{ name => "year", type=>"set", options=>[qw( 2008 2009 2010 2011 2012 )], input_style => 'small' },
-	{ name => "year", type=>"set", options=>[qw( 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 )], input_style => 'small' },
+	{ name => "year", type=>"set", options=>[qw( 2008 2009 2010 2011 2012 )], input_style => 'small' },
 	{ name => "degrees", type => "int", }, 
 	{ name => "income",
 		type => "compound",

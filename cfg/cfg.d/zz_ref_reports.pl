@@ -374,7 +374,7 @@ $c->{plugins}->{"Screen::REF::Report::REF2"}->{params}->{validate_selection} = s
 	$year = "" if !defined $year;
 	$year = substr($year,0,4);
 
-        if( !$year || $year < 2014 || $year > 2019 )
+	if( !$year || $year < 2008 || $year > 2013 )
 	{
 		push @problems, $session->html_phrase( "ref:validate:year",
 			year => $session->make_text( $year ),

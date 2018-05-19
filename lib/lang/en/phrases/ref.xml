@@ -378,10 +378,10 @@ You cannot yet select publications for REF as no Benchmarks have been organised.
 
 <epp:phrase id="ref/listing:newsearch:desc">Blank search form</epp:phrase>
 
-<epp:phrase id="ref/listing:search_authored:desc">items <epc:pin name="who"/> co-authored from 2014 onwards</epp:phrase>
+<epp:phrase id="ref/listing:search_authored:desc">items <epc:pin name="who"/> co-authored from 2008 onwards</epp:phrase>
 <epp:phrase id="ref/listing:search_authored_all:desc">*all* the items <epc:pin name="who"/> co-authored</epp:phrase>
 
-<epp:phrase id="ref/listing:search_deposited:desc">items <epc:pin name="who"/> deposited from 2014 onwards</epp:phrase>
+<epp:phrase id="ref/listing:search_deposited:desc">items <epc:pin name="who"/> deposited from 2008 onwards</epp:phrase>
 <epp:phrase id="ref/listing:search_deposited_all:desc">*all* the items <epc:pin name="who"/> deposited</epp:phrase>
 
 <epp:phrase id="ref/listing:searches:heading"><div style="margin-top:5px;margin-bottom:10px;">Please find below the list of <epc:pin name="search_desc"/>.
@@ -526,7 +526,7 @@ No items selected.
 <epp:phrase id="ref:stat_total">Outputs</epp:phrase>
 <epp:phrase id="ref:stat_mean_self_rating">Avg. Rating</epp:phrase>
 
-<epp:phrase id="ref:validate:year"><epc:pin name="year"/> is outside of census period (2014-2019).</epp:phrase>
+<epp:phrase id="ref:validate:year"><epc:pin name="year"/> is outside of census period (2008-2013).</epp:phrase>
 <epp:phrase id="ref:validate:doi">Article missing DOI.</epp:phrase>
 <epp:phrase id="ref:validate:word_limit"><epc:pin name="field"/> has <epc:pin name="length"/> words versus <epc:pin name="limit"/> maximum.</epp:phrase>
 <epp:phrase id="ref:validate:wrong_reserve">This output references a reserve but it has not been flagged as a double-weighted output.</epp:phrase>
@@ -606,13 +606,6 @@ No users found in your UoA.</epp:phrase>
 <epp:phrase id="ref_environment_fieldopt_year_2010">2010-11</epp:phrase>
 <epp:phrase id="ref_environment_fieldopt_year_2011">2011-12</epp:phrase>
 <epp:phrase id="ref_environment_fieldopt_year_2012">2012-13</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2013">2013-14</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2014">2014-15</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2015">2015-16</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2016">2016-17</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2017">2017-18</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2018">2018-19</epp:phrase>
-<epp:phrase id="ref_environment_fieldopt_year_2019">2019-20</epp:phrase>
 <epp:phrase id="ref_environment_fieldname_degrees">Research Doctoral Degrees Awarded</epp:phrase>
 <epp:phrase id="ref_environment_fieldname_income">Research Income</epp:phrase>
 <epp:phrase id="ref_environment_fieldname_income_source">Source</epp:phrase>
